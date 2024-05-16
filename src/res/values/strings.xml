@@ -1,0 +1,7 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Ski Resort CCTV</string>
+    <string name="hello_world">Hello, World!</string>
+    <string name="cctv_list_title">CCTV List</string>
+    <string name="cctv_player_title">CCTV Player</string>
+</resources>

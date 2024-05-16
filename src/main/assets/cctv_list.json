@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Resort 1",
+    "url": "http://cctv.resort1.com/stream"
+  },
+  {
+    "name": "Resort 2",
+    "url": "http://cctv.resort2.com/stream"
+  }
+]
